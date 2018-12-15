@@ -1,0 +1,41 @@
+body
+{
+background-image: url("http://www.hdfondos.eu/preview/get_photo/371441/1366/768")	
+}
+
+h1
+{	
+color: navy;
+text-align: center;
+font-family: Verdana, sans-serif;
+}
+
+.Intro
+{
+color: blue;
+text-align: center;
+}
+
+strong
+{
+color: orange;
+}
+
+p, ul
+{
+color: blue;
+font-family: Verdana, sans-serif;
+}
+
+h2
+{
+color: navy;
+font-family: Verdana, sans-serif;
+}
+
+.Image
+{
+float:right;
+box-shadow: 3px 3px 0px black;
+border: 3px black inset
+}
