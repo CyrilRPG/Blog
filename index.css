@@ -1,6 +1,7 @@
 body
 {
 	font-family: Georgia, sans-serif;
+	font-size: 20px;
 }
 
 h1
@@ -62,3 +63,30 @@ footer
 	color: green;
 	background-color: #2E3436
 }   
+
+.imageflottante
+	{
+		float: left;
+	}
+
+.imageflottante2
+	{
+		float: right;
+	}
+
+.projet
+{
+	text-align: center;
+}
+
+iframe
+{
+	position: absolute;
+	left: 30%%;
+	right: 30%;
+}
+
+h3
+{
+	color: navy;
+}
