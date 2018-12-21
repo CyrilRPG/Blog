@@ -60,19 +60,19 @@ strong
 footer
 {
 	text-align: center;
-	color: green;
+	color: green;	
 	background-color: #2E3436
 }   
 
 .imageflottante
-	{
-		float: left;
-	}
+{
+	float: left;
+}
 
 .imageflottante2
-	{
-		float: right;
-	}
+{
+	float: right;
+}
 
 .projet
 {
