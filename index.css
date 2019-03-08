@@ -1,0 +1,51 @@
+header, main {
+	color: white;
+	text-align: center;
+}
+
+header h1 {
+	font-size: 130px;
+}
+
+header h2 {
+	font-size: 52px;
+}
+
+main h3 {
+	font-size: 70px;
+	color: purple;
+}
+
+main h4 {
+	font-size: 44px;
+	color: red;
+}
+
+body {
+	background: linear-gradient(to right, red, blue);
+	font-size: 22px;
+	color: white;
+	text-align: center
+}
+
+main {
+	background: linear-gradient(to top, green, yellow);
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+footer {
+	background: linear-gradient(to top, black, gray);
+}
+
+footer h3 {
+	font-size: 70px;
+	color: white;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none
+}
