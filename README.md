@@ -1,5 +1,5 @@
-# Test-HTML/CSS
-Ceci est censé être une découverte du langage HTML5. 
-Dans ce test, je pourrai essayer de créer des pages webs simples pour l'exercice.
-S'initier au HTML pourrait ouvrir des portes pour pouvoir utiliser des éditeurs de création de sites internets.
-URL : https://cyrilrpg.netlify.com/
+# Site personnel
+J'ai voulu faire ce site pour tester tout ce que j'avais appris.
+Finalement, j'ai pas eu besoin d'utiliser des proprietés complexes ou quoi.
+Du coup je mets ça quand même.
+Lien : https://cyrilrpg.netlify.com
