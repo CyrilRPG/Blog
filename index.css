@@ -1,5 +1,5 @@
 header, main {
-	color: white;
+	color: #EEE2DC;
 	text-align: center;
 }
 
@@ -13,23 +13,23 @@ header h2 {
 
 main h3 {
 	font-size: 70px;
-	color: purple;
+	color: #D9B08C;
 }
 
 main h4 {
 	font-size: 44px;
-	color: red;
+	color: #FFCB9A;
 }
 
 body {
-	background: linear-gradient(to right, red, blue);
+	background: linear-gradient(to right, #123C69, #AC3B61);
 	font-size: 22px;
-	color: white;
-	text-align: center
+	color: #D1E8E2;
+	text-align: center;
 }
 
 main {
-	background: linear-gradient(to top, green, yellow);
+	background: linear-gradient(to top, #2C3531, #116466);
 }
 
 html {
@@ -37,7 +37,7 @@ html {
 }
 
 footer {
-	background: linear-gradient(to top, black, gray);
+	background: linear-gradient(to top, #2F4454, #2E151B);
 }
 
 footer h3 {
