@@ -92,3 +92,9 @@ div {
 	padding: 20px;
 	color: teal;
 }
+
+@media screen and (max-width: 840px) {
+	main {
+		width: 85%;
+	}
+}
