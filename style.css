@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans');
+}
+
 body {
 	background: linear-gradient(to right, #E37222, teal);
 	font-family: Open Sans;
@@ -15,6 +20,7 @@ main {
 	background-color: white;
   	margin: auto;
 	width: 60%;
+    border-radius: 10px;
 }
 
 main h2 {
@@ -37,20 +43,20 @@ main h4 {
 
 main p {
 	font-size: 20px;
-	margin-left: 15px;
-	margin-right: 15px;
+	margin-left: 25px;
+	margin-right: 25px;
 	color: teal;
 }
 
 main a {
 	text-decoration: none;
-	color: teal;
+	color: #E37222;
 	font-size: 20px;
 }
 
 main a:hover {
-	color: #66B98F;
-	border-bottom: solid #66B98F;
+	color: #EEAA7B;
+	border-bottom: solid #EEAA7B;
 }
 
 .menu {
