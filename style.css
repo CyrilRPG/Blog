@@ -104,3 +104,8 @@ div {
 		width: 85%;
 	}
 }
+
+textarea {
+	width: 100%;
+	font-family: Open Sans;
+}
